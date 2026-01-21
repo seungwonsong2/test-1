@@ -82,3 +82,11 @@ README 파일이란?
 - git status : 현재 깃 상태
 - git add 파일.txt : 스테이징
 - git commit -m "message" : 커밋 + 메시지 남기기
+- git commit -am "message" : 스테이징 + 커밋 + 메시지 남기기
+- git log : 커밋기록 확인
+- git log --stat : 커밋 자세한 통계 확인
+- git diff : 변경사항 확인
+- git restore 이름.txt :  수정 사항 취소
+- git restore --staged 이름.txt :  스테이징 되돌리기
+- 
+- 
